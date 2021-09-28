@@ -1,0 +1,12 @@
+USART_Program.c:26:6:USART_Init	32	static
+USART_Program.c:74:6:USART_Sync_SendChar	16	static
+USART_Program.c:80:4:USART_Sync_RecieveChar	16	static
+USART_Program.c:86:6:USART_Sync_SendString	24	static
+USART_Program.c:97:6:USART_Sync_RecieveString	24	static
+USART_Program.c:110:6:USART_Async_SendChar	16	static
+USART_Program.c:117:6:USART_Async_RecieveChar	16	static
+USART_Program.c:123:6:USART_Async_RecieveString	24	static
+USART_Program.c:131:6:USART_Async_SendString	24	static
+USART_Program.c:139:6:USART1_IRQHandler	8	static
+USART_Program.c:174:6:USART1_SendByDMA	24	static
+USART_Program.c:216:6:USART1_receiveByDMA	24	static
